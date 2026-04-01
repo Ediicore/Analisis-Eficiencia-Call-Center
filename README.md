@@ -30,5 +30,18 @@ Gracias al análisis de datos, se lograron identificar los siguientes puntos acc
 * `README.md`: Documentación del proyecto.
 
 ---
-**¿Interesado en optimizar operaciones mediante datos?** ¡Conectemos! 
-[LinkedIn](TU-LINK-DE-LINKEDIN) | edgar.apple08@gmail.com
+## 🚀 Cómo ejecutar el proyecto
+
+1. **Clona el repositorio:** `git clone https://github.com/Ediicore/Analisis-Eficiencia-Call-Center.git`
+2. **Instala las dependencias:** `pip install pandas matplotlib seaborn scipy`
+3. **Explora el análisis:** Abre el archivo `Analisis-Eficiencia-Call-Center-Python.ipynb` en Jupyter Notebook o Google Colab.
+
+---
+
+### 🤝 ¡Conectemos!
+**¿Interesado en optimizar operaciones mediante datos o discutir estrategias de análisis financiero?**
+
+📬 **Correo:** edgar.apple08@gmail.com  
+💼 **LinkedIn:** [Edgar Emmanuel Estrella Cruz](https://www.linkedin.com/in/tu-perfil-aqui/)
+
+---
